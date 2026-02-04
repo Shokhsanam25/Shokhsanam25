@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me  by my email
-
+  olimdjonovashokhsanam25@gmail.com
 
 <!---
 Shokhsanam25/Shokhsanam25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
