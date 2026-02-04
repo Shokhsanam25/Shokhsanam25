@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shokhsanam25
+- 👋 Hi, I’m Shohsanam
 - 👀 I’m interested in  reading and technology 
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on team
